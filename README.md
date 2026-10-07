@@ -2,10 +2,10 @@
 课程《薄膜技术》AI4S大作业
 
 ## 个人参数
-- 学号：2023270148
-- λtarget = 620 nm
-- seed = 270148
-- design_seed = 270149
+- 学号：2023270029
+- λtarget = 740 nm
+- seed = 270029
+- design_seed = 270030
 
 ## 膜系参数
 Air / H / L / H / L / Glass（4层薄膜）
